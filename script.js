@@ -1,8 +1,6 @@
 // Map days to document URLs
 const documents = {
-    1: "documents/day1.pdf",
-    2: "documents/day2.pdf",
-    3: "documents/day3.pdf",
+    
     // Add more documents as needed
 };
 
