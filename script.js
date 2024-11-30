@@ -1,6 +1,6 @@
 // Map days to document URLs
 const documents = {
-    1: "https://1drv.ms/b/c/04689a081ab43f14/EQNyMpZ9B6NGhkwt03g8ucgBbQ6WktTj79OR2NTNfXqdbw?e=ExzvFl"
+    1: "Documents/Day 1.pdf"
     // Add more documents as needed
 };
 
