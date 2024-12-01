@@ -13,6 +13,7 @@ body {
 
 /* Heading styling */
 h1 {
+    font-family: 'Mountains of Christmas', cursive;
     font-size: 3.5rem;
     color: #c62828;
     text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.7), 0 0 20px #c62828;
