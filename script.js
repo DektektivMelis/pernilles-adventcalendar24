@@ -5,7 +5,7 @@ const documents = {
     3: "Chapters/Day 3.pdf",
     4: "Chapters/Day 4.pdf",
     5: "Chapters/Day 5.pdf",
-    6: "Sorry, rampenissen stjal dette kapittelet. Vennligst vent mens jeg...fikser problemet"
+    6: "Chapters/Not finished.pdf"
     // Add more documents as needed
 };
 
