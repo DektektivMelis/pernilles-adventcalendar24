@@ -7,7 +7,8 @@ const documents = {
     5: "Chapters/Day 5.pdf",
     6: "Chapters/Day 6.pdf",
     7: "Chapters/Day 7.pdf",
-    8: "Chapters/Day 8.pdf"
+    8: "Chapters/Day 8.pdf",
+    9: "Chapters/Day 9.pdf"
     // Add more documents as needed
 };
 
