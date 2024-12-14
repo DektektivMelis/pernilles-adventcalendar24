@@ -13,7 +13,8 @@ const documents = {
     11: "Chapters/Day 11.pdf",
     12: "Chapters/Day 12.pdf",
     13: "Chapters/Day 13.pdf",
-    14: "Chapters/Day 14.pdf"
+    14: "Chapters/Day 14.pdf",
+    15: "Chapters/Day 15.pdf"
     // Add more documents as needed
 };
 
