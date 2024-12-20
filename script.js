@@ -19,7 +19,8 @@ const documents = {
     17: "Chapters/Day 17.pdf",
     18: "Chapters/Day 18.pdf",
     19: "Chapters/Day 19.pdf",
-    20: "Chapters/Day 20.pdf"
+    20: "Chapters/Day 20.pdf",
+    21: "Chapters/Day 21.pdf"
     // Add more documents as needed
 };
 
