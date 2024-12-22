@@ -21,7 +21,9 @@ const documents = {
     19: "Chapters/Day 19.pdf",
     20: "Chapters/Day 20.pdf",
     21: "Chapters/Day 21.pdf",
-    22: "Chapters/Day 22.pdf"
+    22: "Chapters/Day 22.pdf",
+    23: "Chapters/Day 23.pdf",
+    24: "Chapters/Day 24.pdf"
     // Add more documents as needed
 };
 
